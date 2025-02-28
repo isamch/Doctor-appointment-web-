@@ -27,4 +27,3 @@ This is my Doctor Appointment Web App, built using the Laravel Framework. It pro
 🔹 Integrate SMS notifications (AWS SNS) for appointment reminders.
 🔹 Allow doctors to sync their schedules with calendar applications.
 
-This version presents the project as your own while keeping it professional and structured. 🚀 Let me know if you want any tweaks! 😃
